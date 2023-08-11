@@ -17,8 +17,8 @@ In this project you'll take take an almost completed e-commerce store and refact
 ### Instructions
 
 ### Task 1: Project Set up
-- [ ] Download project dependencies by running `npm install`.
-- [ ] Start up the app using `npm start`.
+- [X] Download project dependencies by running `npm install`.
+- [X] Start up the app using `npm start`.
 
 ### Task 2: MVP
 
